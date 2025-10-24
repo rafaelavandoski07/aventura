@@ -1,0 +1,17 @@
+body{
+    background-color: darkmagenta;
+    color: aliceblue;
+     font-family: "BBH Sans Bogle", sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    }
+
+button {
+    background-color: fuchsia;
+    color: aliceblue;
+    font-family: "BBH Sans Bogle", sans-serif;
+    
+}
